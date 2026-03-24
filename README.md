@@ -16,6 +16,8 @@ Projeto de desenvolvimento pessoal baseado em consistência e crescimento.
 - estudos → aprendizado
 - saude → treino e alimentação
 - metas → planejamento geral
+estrutura inicial do projeto
+
 financeiro/controle.md
 # Controle Financeiro 💰
 
