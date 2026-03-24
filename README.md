@@ -16,3 +16,13 @@ Projeto de desenvolvimento pessoal baseado em consistência e crescimento.
 - estudos → aprendizado
 - saude → treino e alimentação
 - metas → planejamento geral
+financeiro/controle.md
+# Controle Financeiro 💰
+
+## Entradas mensais
+- Salário: R$ 7.000
+- Extra: R$ 2.500
+
+## Objetivo
+- Acumular patrimônio
+- Gerar renda passiva
